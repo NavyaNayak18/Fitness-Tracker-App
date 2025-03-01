@@ -10,7 +10,7 @@ FitTrack is a comprehensive fitness tracking app built with Firebase for backend
 - **Push Notifications**: Stay motivated with timely reminders and progress alerts.
 
 ### Tech Stack:
-- **Frontend**: ReactJS
+- **Frontend**: TypeScript
 - **Backend**: Firebase
 - **Deployment**: Expo
 - **UI/UX Design**: Figma for intuitive, responsive design across devices.
